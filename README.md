@@ -7,7 +7,7 @@ This project bridges **Data Science** and **Pharma Regulatory Analytics**, trans
 
 ## 📸 Dashboard Preview
 ![New Drug Approvals Dashboard](image_891d1e.png)[cite: 1]
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4313e424-e5ce-43bf-a9a6-231a34a8e65b" />
+<img width="1559" height="937" alt="Screenshot 2026-08-13 122333" src="https://github.com/user-attachments/assets/933cbcc8-ad9a-4f9a-b2d8-bec8b6b434f1" />
 
 
 ## 🗝️ Key Features & Business Insights
